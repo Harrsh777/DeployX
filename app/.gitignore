@@ -10,11 +10,12 @@
 !.yarn/releases
 !.yarn/versions
 idevanshraigithubio
-D:\DeployX\deployxx\app\trojanX-tar.tar
-D:\DeployX\deployxx\app\idevanshrai-site-tar.tar
+app/trojanX-tar.tar
+app/idevanshrai-site-tar.tar
 # testing
 /coverage
 
+idevanshraigithubio
 # next.js
 /.next/
 /out/
