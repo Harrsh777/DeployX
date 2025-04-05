@@ -14,7 +14,7 @@ app/trojanX-tar.tar
 app/idevanshrai-site-tar.tar
 # testing
 /coverage
-
+temp
 idevanshraigithubio
 # next.js
 /.next/
